@@ -29,7 +29,7 @@
 
 ## 🛠️ Technologies Used
 
-| Công cụ | Mô tả |
+| Tool | Description |
 |--------|------|
 | Unity 2022.x | Main Game Engine |
 | C# | Gameplay logic |
