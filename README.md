@@ -58,10 +58,12 @@ git clone https://github.com/yourusername/young-milo.git
 2. Dùng Unity 2022.3 hoặc mới hơn
 3. Mở scene chính: Scenes/WorldStart.unity
 4. Nhấn ▶ để bắt đầu hành trình cùng Milo!
-⭐ Also you can the build version of the Red Runner using the following ways:
-https://pixelfrog-assets.itch.io/tiny-swords
+- ⭐ Also you can the build version of the Red Runner using the following ways:
+- https://pixelfrog-assets.itch.io/tiny-swords
 
 ---
 📸 Hình ảnh Gameplay
+![image](https://github.com/user-attachments/assets/00059bf6-55a0-42a9-bc81-928500d5cc6e)
+
 ---
 
