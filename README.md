@@ -8,7 +8,7 @@
 
 ## 🎮 Gameplay Features
 
-- 🎯 **Dual Combat System**: Chuyển đổi linh hoạt giữa **kiếm** và **cung** để chiến đấu theo chiến thuật của bạn.
+- 🎯 **Dual Combat System**: Switch flexibly between **sword** and **bow** to fight according to your strategy.
 - 🌍 **World Map & Biomes**: A diverse world including:
   - Grasslands
   - Dungeon
