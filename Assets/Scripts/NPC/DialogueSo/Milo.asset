@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 706f45831134d314daacf9b15d445f2e, type: 3}
+  m_Name: Milo
+  m_EditorClassIdentifier: 
+  actors: 0100000000000000010000000000000001000000010000000000000001000000
+  ramdomActorName: 
+  ramdomActorPortrait: {fileID: 0}
+  dialogue:
+  - 'Hello, Mabu
+
+'
+  - Hi,Milo
+  - Welcome to the dungeon to join the HOLY GRAIL
+  - What do I need to do to be able to participate in the holy grail war?
+  - Overcome difficulties, challenges, gain experience, and discover new things on
+    your journey
+  - You will be grailed, recognized, and given you the ticket to participate and
+    the holy ground.
+  - It's interesting, I'm going to kick the ass of the guys in the holy grail arena,
+    wait.
+  - Go ahead, challenges await you. Along the way you will meet my brothers and sisters
+    and they will support you.
+  optionText: []
+  option0: {fileID: 11400000, guid: ded463834f40fa14291cbaf554102c50, type: 2}
+  option1: {fileID: 11400000, guid: 9ee094f33d71cca4e95a99cf90320cf7, type: 2}
+  option2: {fileID: 11400000, guid: 23d8cd753bf6b8b4cbe8f8fc0c5594a2, type: 2}
+  option3: {fileID: 11400000, guid: c75718a7ec349244a82621e7770a938e, type: 2}
