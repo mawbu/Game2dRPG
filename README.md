@@ -47,7 +47,7 @@ git clone https://github.com/yourusername/young-milo.git
 2. Use Unity version **2022.3** or **later**
 3. Open the main scene: Scenes/Main Menu.unity
 4. Press ▶ to start your journey with Milo!
-- ⭐ Also you can the build version of the Red Runner using the following ways:
+- ⭐ Also you can the build version of the Young Milo using the following ways:
 - https://pixelfrog-assets.itch.io/tiny-swords
 
 ---
