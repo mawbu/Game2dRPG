@@ -2,7 +2,7 @@
 
 > *“Embark on an epic journey as Young Milo – a young adventurer battling through mysterious lands, uncovering his destiny, and mastering both sword and bow.”*
 
-**Young Milo** là một game 2D RPG được phát triển bằng Unity, nơi bạn điều khiển một nhân vật sở hữu hai phong cách chiến đấu, khám phá nhiều vùng đất khác nhau, nâng cấp kỹ năng và chiến đấu với những con boss hùng mạnh.
+**Young Milo** is a 2D RPG developed with Unity, where you control a character with two distinct combat styles, explore diverse lands, upgrade skills, and battle powerful bosses.
 
 ---
 
