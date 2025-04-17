@@ -9,55 +9,44 @@
 ## 🎮 Gameplay Features
 
 - 🎯 **Dual Combat System**: Chuyển đổi linh hoạt giữa **kiếm** và **cung** để chiến đấu theo chiến thuật của bạn.
-- 🌍 **World Map & Biomes**: Hệ thống bản đồ đa dạng gồm:
-  - Đồng cỏ xanh (Grasslands)
-  - Hầm ngục (Dungeon)
-  - Thư viện cổ (Library)
-  - Lãnh địa tuyết (Snowfield)
-- 🧟‍♂️ **Monsters & Bosses**: Kẻ địch đa dạng với kỹ năng và chỉ số riêng.
-- 🧠 **NPC & Cốt truyện**: Gặp gỡ NPC và mở khóa câu chuyện của Young Milo qua các đoạn hội thoại tương tác.
+- 🌍 **World Map & Biomes**: A diverse world including:
+  - Grasslands
+  - Dungeon
+  - Ancient Library
+  - Snowfield
+- 🧟‍♂️ **Monsters & Bosses**: A variety of enemies with unique skills and stats.
+- 🧠 **NPC & Cốt truyện**: Meet NPCs and unlock Young Milo's story through interactive dialogues.
 - 💪 **Leveling & Skill System**: 
-  - Tăng cấp nhân vật qua EXP
-  - Nâng kỹ năng tăng **máu (HP)** và **sát thương (Damage)**
-- 📊 **Character Stats UI**: Bảng trạng thái hiển thị thông số nhân vật và kỹ năng.
+  - Gain EXP to level up
+  - Upgrade skills to increase **HP** and **Damage**
+- 📊 **Character Stats UI**: Displays character stats and skill information.
 - 🎒 **Inventory System**:
-  - Nhặt vật phẩm hồi máu
-  - Hiển thị và sử dụng item trong kho đồ
-- 🗺️ **Mini Map**: Dễ dàng theo dõi vị trí người chơi trên bản đồ
+  - Collect healing items
+  - View and use items in your inventory
+- 🗺️ **Mini Map**: Easily track the player’s location on the map.
 
 ---
 
-## 🛠️ Công nghệ sử dụng
+## 🛠️ Technologies Used
 
 | Công cụ | Mô tả |
 |--------|------|
-| Unity 2022.x | Game Engine chính |
-| C# | Logic gameplay |
-| Animator | Chuyển động và hiệu ứng |
-| Tilemap | Thiết kế bản đồ |
-| ScriptableObject | Tối ưu hóa dữ liệu kỹ năng, item, enemy |
-| Unity UI | Giao diện người dùng |
-| Git & GitHub | Quản lý mã nguồn |
+| Unity 2022.x | Main Game Engine |
+| C# | Gameplay logic |
+| Animator | Animations and effects |
+| Tilemap | Map design |
+| ScriptableObject | Optimized data structure for skills, items, enemies |
+| Unity UI | User interface system |
+| Git & GitHub | Source control and versioning |
 
----
-
-## 🧪 Mục tiêu kỹ thuật
-
-- Áp dụng mô hình **OOP và phân lớp rõ ràng**
-- Tối ưu hóa hiệu suất khi load map và enemy
-- Thiết kế game có thể mở rộng (scalable design)
-- Rèn luyện **UI/UX logic trong game**
-
----
-
-## 🚀 Cài đặt & Chạy game
+## 🚀 Installation
 ```bash
 git clone https://github.com/yourusername/young-milo.git
 ```
-1. Mở project bằng Unity Hub
-2. Dùng Unity 2022.3 hoặc mới hơn
-3. Mở scene chính: Scenes/WorldStart.unity
-4. Nhấn ▶ để bắt đầu hành trình cùng Milo!
+1. Open the project with Unity Hub
+2. Use Unity version **2022.3** or **later**
+3. Open the main scene: Scenes/Main Menu.unity
+4. Press ▶ to start your journey with Milo!
 - ⭐ Also you can the build version of the Red Runner using the following ways:
 - https://pixelfrog-assets.itch.io/tiny-swords
 
