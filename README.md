@@ -15,7 +15,7 @@
   - Ancient Library
   - Snowfield
 - 🧟‍♂️ **Monsters & Bosses**: A variety of enemies with unique skills and stats.
-- 🧠 **NPC & Cốt truyện**: Meet NPCs and unlock Young Milo's story through interactive dialogues.
+- 🧠 **NPC & Story**: Meet NPCs and unlock Young Milo's story through interactive dialogues.
 - 💪 **Leveling & Skill System**: 
   - Gain EXP to level up
   - Upgrade skills to increase **HP** and **Damage**
